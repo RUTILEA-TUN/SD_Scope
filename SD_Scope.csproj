@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\back.jpg" />
+    <None Remove="Images\entire.bmp" />
+    <None Remove="Images\tip.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\back.jpg" />
+    <Resource Include="Images\entire.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV.Bitmap" Version="4.5.5.4823" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="4.5.5.4823" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2-beta1" />
+    <PackageReference Include="SimpleModal.WPF" Version="1.0.0" />
+    <PackageReference Include="Syncfusion.SfProgressBar.WPF" Version="20.1.0.55" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CLIDelegate">
+      <HintPath>dlls\CLIDelegate.dll</HintPath>
+    </Reference>
+    <Reference Include="ThridLibray">
+      <HintPath>dlls\ThridLibray.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\tip.bmp" />
+  </ItemGroup>
+
+</Project>

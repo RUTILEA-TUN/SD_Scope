@@ -1,0 +1,32 @@
+﻿<Window x:Class="SD_Scope.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viwemodels="clr-namespace:SD_Scope.ViewModels"
+        xmlns:views="clr-namespace:SD_Scope.Views"
+        xmlns:Syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:local="clr-namespace:SD_Scope" 
+        xmlns:custom="clr-namespace:ModalControl;assembly=ModalControl"
+        mc:Ignorable="d"
+        Title="SD Scope" Height="680" Width="1024">
+    <Grid>
+        <Grid.Resources>
+            <DataTemplate DataType="{x:Type viwemodels:PreInspectionViewModel}">
+                <views:PreInspectionView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viwemodels:InspectionViewModel}">
+                <views:InspectionView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viwemodels:PostInspectionViewModel}">
+                <views:PostInspectionView/>
+            </DataTemplate>
+        </Grid.Resources>
+        
+        <custom:Modal Panel.ZIndex="100" IsOpen="{Binding IsModalOpen}">
+            <ContentControl Content="{Binding CurrentModalViewModel}" />
+        </custom:Modal>
+        
+        <ContentControl Content="{Binding CurrentViewModel}" />
+    </Grid>
+</Window>

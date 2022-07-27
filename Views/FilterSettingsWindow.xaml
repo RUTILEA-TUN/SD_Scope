@@ -1,0 +1,114 @@
+﻿<Window x:Class="SD_Scope.Views.FilterSettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SD_Scope.Views"
+        mc:Ignorable="d"
+        Title="FilterSettingsWindow" Height="250" Width="200">
+    <StackPanel Orientation="Vertical" Margin="10" Background="AliceBlue">
+
+        <TextBlock Text="Filters" FontSize="20"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <ComboBox Name="cbFilters" SelectionChanged="cbFilters_SelectionChanged">
+            <ComboBoxItem>Gamma</ComboBoxItem>
+            <ComboBoxItem>Contrast</ComboBoxItem>
+            <ComboBoxItem>Histogram</ComboBoxItem>
+            <ComboBoxItem>Sobel</ComboBoxItem>
+        </ComboBox>
+
+        <StackPanel Orientation="Vertical" Name="spGammaFilter" Visibility="Visible">
+            <Label Margin="0"
+                   Content="Gamma"
+                   Padding="5,5,5,1"
+                   Target="cbGamma" />
+            <ComboBox Name="cbGamma">
+                <ComboBoxItem>0.5</ComboBoxItem>
+                <ComboBoxItem>1.0</ComboBoxItem>
+                <ComboBoxItem>1.5</ComboBoxItem>
+                <ComboBoxItem>2.0</ComboBoxItem>
+                <ComboBoxItem>2.5</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Name="spContrastFilter">
+            <Label Margin="0"
+                   Content="Alpha"
+                   Padding="5,5,5,1"
+                   Target="cbAlpha" />
+            <ComboBox Name="cbAlpha">
+                <ComboBoxItem>0.5</ComboBoxItem>
+                <ComboBoxItem>1.0</ComboBoxItem>
+                <ComboBoxItem>1.5</ComboBoxItem>
+                <ComboBoxItem>2.0</ComboBoxItem>
+                <ComboBoxItem>2.5</ComboBoxItem>
+            </ComboBox>
+
+            <Label Margin="0"
+                   Content="Beta"
+                   Padding="5,5,5,1"
+                   Target="cbBeta" />
+            <ComboBox Name="cbBeta">
+                <ComboBoxItem>-40.0</ComboBoxItem>
+                <ComboBoxItem>-20.0</ComboBoxItem>
+                <ComboBoxItem>0</ComboBoxItem>
+                <ComboBoxItem>20.0</ComboBoxItem>
+                <ComboBoxItem>40.0</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Vertical" Name="spHistogramFilter">
+            <Label Margin="0"
+                   Content="ClipLimit"
+                   Padding="5,5,5,1"
+                   Target="cbClipLimit" />
+            <ComboBox Name="cbClipLimit">
+                <ComboBoxItem>0.0</ComboBoxItem>
+                <ComboBoxItem>2.0</ComboBoxItem>
+                <ComboBoxItem>4.0</ComboBoxItem>
+                <ComboBoxItem>6.0</ComboBoxItem>
+            </ComboBox>
+
+            <Label Margin="0"
+                   Content="GridSize"
+                   Padding="5,5,5,1"
+                   Target="cbGridSize" />
+            <ComboBox Name="cbGridSize">
+                <ComboBoxItem>1</ComboBoxItem>
+                <ComboBoxItem>3</ComboBoxItem>
+                <ComboBoxItem>5</ComboBoxItem>
+                <ComboBoxItem>7</ComboBoxItem>
+                <ComboBoxItem>9</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Vertical" Name="spSobelFilter">
+            <Label Margin="0"
+                   Content="Diff"
+                   Padding="5,5,5,1"
+                   Target="cbDiff" />
+            <ComboBox Name="cbDiff">
+                <ComboBoxItem>1</ComboBoxItem>
+                <ComboBoxItem>2</ComboBoxItem>
+
+
+            </ComboBox>
+
+            <Label Margin="0"
+                   Content="GridSize"
+                   Padding="5,5,5,1"
+                   Target="cbGridSizeSobel" />
+            <ComboBox Name="cbGridSizeSobel">
+                <ComboBoxItem>1</ComboBoxItem>
+                <ComboBoxItem>3</ComboBoxItem>
+                <ComboBoxItem>5</ComboBoxItem>
+                <ComboBoxItem>7</ComboBoxItem>
+                <ComboBoxItem>9</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <Button Content="Save and Apply" Margin="0,15,0,1" Click="Button_Click"/>
+
+    </StackPanel>
+</Window>

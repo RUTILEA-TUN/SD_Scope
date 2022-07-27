@@ -1,0 +1,122 @@
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.csproj.AssemblyReference.cache
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\InspectionView.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PostInspectionView.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PreInspectionView.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope_MarkupCompile.cache
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope_MarkupCompile.lref
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.exe
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.deps.json
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.runtimeconfig.json
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.pdb
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\InspectionView.baml
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PostInspectionView.baml
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PreInspectionView.baml
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.g.resources
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.AssemblyInfoInputs.cache
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.AssemblyInfo.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.csproj.CoreCompileInputs.cache
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\refint\SD_Scope.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.pdb
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.genruntimeconfig.cache
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\ref\SD_Scope.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.csproj.CopyComplete
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\Syncfusion.SfProgressBar.WPF.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\CameraSettingsWindow.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\ModalControl.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\CameraSettingsWindow.baml
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\FilterSettingsWindow.g.cs
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\CLIDelegate.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\bin\Debug\net6.0-windows\ThridLibray.dll
+C:\Users\kacem\Documents\Work\SD_Scope C#\Project\SD_Scope\obj\Debug\net6.0-windows\Views\FilterSettingsWindow.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.exe
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.deps.json
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.runtimeconfig.json
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\ref\SD_Scope.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\SD_Scope.pdb
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\ModalControl.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\Syncfusion.SfProgressBar.WPF.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\CLIDelegate.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\bin\Debug\net6.0-windows\ThridLibray.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.csproj.AssemblyReference.cache
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\CameraSettingsWindow.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\FilterSettingsWindow.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\InspectionView.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PostInspectionView.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PreInspectionView.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope_MarkupCompile.cache
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope_MarkupCompile.lref
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\CameraSettingsWindow.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\FilterSettingsWindow.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\InspectionView.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PostInspectionView.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\Views\PreInspectionView.baml
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.g.resources
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.AssemblyInfoInputs.cache
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.AssemblyInfo.cs
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.csproj.CoreCompileInputs.cache
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.csproj.CopyComplete
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\ref\SD_Scope.dll
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.pdb
+C:\Users\offshore_team\Desktop\Project\SD_Scope\obj\Debug\net6.0-windows\SD_Scope.genruntimeconfig.cache
